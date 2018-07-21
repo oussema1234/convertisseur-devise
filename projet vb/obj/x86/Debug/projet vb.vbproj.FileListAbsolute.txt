@@ -1,0 +1,21 @@
+C:\Users\admin\documents\visual studio 2010\Projects\projet vb\projet vb\bin\Debug\projet vb.exe
+C:\Users\admin\documents\visual studio 2010\Projects\projet vb\projet vb\bin\Debug\projet vb.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\projet vb\projet vb\bin\Debug\projet vb.xml
+C:\Users\admin\documents\visual studio 2010\Projects\projet vb\projet vb\obj\x86\Debug\projet_vb.Form1.resources
+C:\Users\admin\documents\visual studio 2010\Projects\projet vb\projet vb\obj\x86\Debug\projet_vb.Resources.resources
+C:\Users\admin\documents\visual studio 2010\Projects\projet vb\projet vb\obj\x86\Debug\projet vb.vbproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2010\Projects\projet vb\projet vb\obj\x86\Debug\projet vb.exe
+C:\Users\admin\documents\visual studio 2010\Projects\projet vb\projet vb\obj\x86\Debug\projet vb.xml
+C:\Users\admin\documents\visual studio 2010\Projects\projet vb\projet vb\obj\x86\Debug\projet vb.pdb
+C:\Users\admin\Desktop\projet vb\projet vb\obj\x86\Debug\projet vb.exe
+C:\Users\admin\Desktop\projet vb\projet vb\obj\x86\Debug\projet vb.xml
+C:\Users\admin\Desktop\projet vb\projet vb\obj\x86\Debug\projet vb.pdb
+C:\Users\Oussema\Desktop\projet vb\projet vb\obj\x86\Debug\projet vb.exe
+C:\Users\Oussema\Desktop\projet vb\projet vb\obj\x86\Debug\projet vb.xml
+C:\Users\Oussema\Desktop\projet vb\projet vb\obj\x86\Debug\projet vb.pdb
+C:\Users\Oussema\Desktop\projet vb\projet vb\bin\Debug\projet vb.exe
+C:\Users\Oussema\Desktop\projet vb\projet vb\bin\Debug\projet vb.pdb
+C:\Users\Oussema\Desktop\projet vb\projet vb\bin\Debug\projet vb.xml
+C:\Users\Oussema\Desktop\projet vb\projet vb\obj\x86\Debug\projet_vb.Form1.resources
+C:\Users\Oussema\Desktop\projet vb\projet vb\obj\x86\Debug\projet_vb.Resources.resources
+C:\Users\Oussema\Desktop\projet vb\projet vb\obj\x86\Debug\projet vb.vbproj.GenerateResource.Cache
